@@ -6,7 +6,7 @@ Hi, I'm Sai Kumar 👋
 🔭 Currently building data pipelines and ML models using Python, SQL, and BI tools
 🌱 Currently learning: Cloud data tools (BigQuery, Looker Studio) & advanced ML
 💬 Ask me about: Python, SQL, Pandas, XGBoost, Power BI, Data Visualization
-📫 Reach me: [your.email@example.com] | [LinkedIn URL]
+📫 Reach me: [saikumarrao.yennamaneni@gmail.comm]
 🛠️ Tech Stack
 
 Languages: Python, SQL Data/ML: Pandas, NumPy, Scikit-learn, XGBoost BI & Visualization: Power BI, Looker Studio, Google Sheets Cloud: BigQuery Tools: Git, Jupyter Notebook, pytrends
